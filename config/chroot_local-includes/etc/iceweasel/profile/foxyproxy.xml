@@ -46,6 +46,10 @@ caseSensitive="false" />
 autoReload="false" reloadFreqMins="60" disableOnBadPAC="true" />
 <manualconf host="" port="" socksversion="5" isSocks="false" />
 </proxy>
+<match enabled="true" name="Tahoe-LAFS local gateway http server"
+pattern="http://127.0.0.1:4456/*"
+isRegEx="false" isBlackList="false" isMultiLine="false"
+caseSensitive="false" />
 <proxy name="I2P router console and eepsite" id="2404203472" notes=""
 enabled="true" mode="direct" selectedTabIndex="2"
 lastresort="false" animatedIcons="true" includeInCycle="true"
