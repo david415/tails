@@ -69,7 +69,7 @@ apt-get -y install \
 	live-build \
 	eatmydata \
 	time whois \
-	dpkg-dev \
+	libdpkg-perl \
 	git \
 	aufs-tools \
 	ikiwiki \
