@@ -1,0 +1,11 @@
+2014-08-26 22:30:42+0000 [-] Log opened.
+2014-08-26 22:30:42+0000 [-] twistd 13.2.0 (/usr/bin/python 2.7.3) starting up.
+2014-08-26 22:30:42+0000 [-] reactor class: twisted.internet.epollreactor.EPollReactor.
+2014-08-26 22:30:42+0000 [-] Listener starting on 50349
+2014-08-26 22:30:42+0000 [-] NevowSite starting on 4456
+2014-08-26 22:30:42+0000 [-] Starting factory <nevow.appserver.NevowSite instance at 0x43c6fc8>
+2014-08-26 22:30:42+0000 [-] My pid: 7964
+2014-08-26 22:30:42+0000 [-] DatagramProtocol starting on 48412
+2014-08-26 22:30:42+0000 [-] Starting protocol <twisted.internet.protocol.DatagramProtocol instance at 0x43f1758>
+2014-08-26 22:30:42+0000 [-] (UDP Port 48412 Closed)
+2014-08-26 22:30:42+0000 [-] Stopping protocol <twisted.internet.protocol.DatagramProtocol instance at 0x43f1758>
